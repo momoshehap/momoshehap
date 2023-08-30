@@ -1,12 +1,13 @@
 
 <h2> Hi there, I'm Muhammed Yasser  👋:heart: </h2>
-<h3 align="center">Flutter Developer </h3>
+<h3 align="center">IOS && Flutter Developer </h3>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 - software Engineering
 - mobile application developer
 - flutter developer
+- IOS developer
 <hr>
 
 
